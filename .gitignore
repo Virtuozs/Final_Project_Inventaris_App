@@ -34,3 +34,6 @@
 # DIrectories
 .vscode
 build
+
+# Databases file
+*.db
